@@ -1,4 +1,4 @@
-````markdown
+
 # LoopBack 4 Backend Guide
 
 **LoopBack 4** is a modern, _TypeScript-first_ backend framework for building APIs with **Node.js**. It is commonly used to create **REST APIs**, CRUD services, and enterprise-grade backend applications.
@@ -707,4 +707,3 @@ services/      -> Business logic
 ```
 
 One of its biggest advantages is that you can use the **LoopBack CLI** to generate many common backend artifacts, including models, datasources, repositories, controllers, and relations, without manually coding everything from scratch.
-````
